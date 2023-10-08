@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h1rara
 - 👀 I’m interested in molecular clouds and star formation. 
-- 🌱 I’m currently learning data reduction. 
-- 💞️ I’m looking to collaborate on extragalactic cloud survey (turbulence and star formation). 
+- 🌱 I’m currently working on the relation between turbulence and star formantion in M33
+- 💞️ I’m looking to collaborate on extragalactic cloud surveys and large scale surveys 
 - 📫 How to reach me planetofthestorms.net
 
 <!---
